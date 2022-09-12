@@ -1,2 +1,6 @@
 193.163.5.0/24,FI,FI-11,Tampere,
 185.218.192.0/22,FI,FI-19,Turku,
+2a0b:a700::/29,FI,FI-19,Turku,
+2a0b:dbc0::/29,FI,FI-19,Turku,
+2a10:f2c0:150::/48,FI,FI-11,Tampere,
+2a10:f2c0::/29,FI,FI-19,Turku,
